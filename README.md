@@ -19,9 +19,9 @@ This learning path introduced me to cybersecurity fundamentals and basic securit
 
 ⬜ Introduction to Ethical Hacking
 
-⬜ Introduction to Information Security
+⬜ Introduction to Information 
 
-⬜ Introduction to Blue Team
+🟡 Introduction to Blue Team — In Progress
 
 ## Goals
 
