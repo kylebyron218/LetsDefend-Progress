@@ -10,6 +10,7 @@ This repository documents my cybersecurity training and hands-on progress throug
 - Completed: July 21, 2026
 - Status: Completed
 - Certificate earned: Yes
+- Certificate: [View Certificate](PASTE-CYBERSECURITY-CERTIFICATE-LINK-HERE)
 
 This learning path introduced me to cybersecurity fundamentals and basic security concepts.
 
