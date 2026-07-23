@@ -2,33 +2,26 @@
 
 This repository documents my cybersecurity training and hands-on progress through LetsDefend.
 
-## About My Training
+## Completed Learning Paths
 
-I am using LetsDefend to build practical cybersecurity and Security Operations Center (SOC) skills.
+### ✅ Introduction to Cybersecurity
+- Platform: LetsDefend
+- Completed: July 21, 2026
+- Status: Completed
+- Certificate earned: Yes
 
-## Skills I Am Learning
+This learning path introduced me to cybersecurity fundamentals and basic security concepts.
 
-- SOC fundamentals
-- Network security
-- Phishing analysis
-- SIEM investigation
-- Incident response
-- Log analysis
-- Malware analysis
-- Network traffic analysis
+## Current Progress
 
-## Completed Training
+✅ Introduction to Cybersecurity
 
-I will update this section as I complete LetsDefend courses and labs.
+⬜ Introduction to Ethical Hacking
 
-## Hands-On Labs
+⬜ Introduction to Information Security
 
-I will document the labs and investigations I complete, including what I learned and the cybersecurity skills I practiced.
+⬜ Introduction to Blue Team
 
-## Certifications
+## Goals
 
-LetsDefend certificates I earn will be added to this portfolio.
-
-## Current Goal
-
-Continue building hands-on cybersecurity skills and preparing for an entry-level cybersecurity/SOC position.
+I am continuing to build my cybersecurity knowledge through LetsDefend and will update this portfolio as I complete additional learning paths, labs, and hands-on exercises.
