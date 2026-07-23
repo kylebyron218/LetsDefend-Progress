@@ -11,6 +11,11 @@ This repository documents my cybersecurity training and hands-on progress throug
 - Certificate earned: Yes
 - 📜 [View Certificate](Certificates/IMG_20260723_101816.png)
 
+### ✅ Introduction to Blue Team
+Platform: LetsDefend
+Completed: July 23, 2026
+Status: Completed
+Certificate earned: Yes
 This learning path introduced me to cybersecurity fundamentals and basic security concepts.
 
 ## Current Progress
