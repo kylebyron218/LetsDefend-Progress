@@ -28,7 +28,7 @@ This learning path introduced me to Blue Team fundamentals, defensive security, 
 
 ✅ Introduction to Cybersecurity
 
-🔄 Introduction Red Team — In Progress
+🔄 Introduction Ethical Hacking — In Progress
 
 ⬜ Introduction to Information Security
 
