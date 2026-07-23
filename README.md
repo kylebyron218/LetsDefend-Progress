@@ -20,6 +20,7 @@ This learning path introduced me to cybersecurity fundamentals and basic securit
 - Completed: July 23, 2026
 - Status: Completed
 - Certificate earned: Yes
+- Certificate: [View Certificate](PASTE-BLUE-TEAM-CERTIFICATE-LINK-HERE)
 
 This learning path introduced me to Blue Team fundamentals, defensive security, and basic Security Operations Center concepts.
 
